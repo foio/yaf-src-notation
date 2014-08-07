@@ -1,0 +1,800 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Cli	yaf_request.c	/^YAF_REQUEST_IS_METHOD(Cli);$/;"	v
+Get	yaf_request.c	/^YAF_REQUEST_IS_METHOD(Get);$/;"	v
+Head	yaf_request.c	/^YAF_REQUEST_IS_METHOD(Head);$/;"	v
+Options	yaf_request.c	/^YAF_REQUEST_IS_METHOD(Options);$/;"	v
+PHP_FUNCTION	yaf_loader.c	/^PHP_FUNCTION(yaf_override_spl_autoload) {$/;"	f
+PHP_GINIT_FUNCTION	yaf.c	/^PHP_GINIT_FUNCTION(yaf) $/;"	f
+PHP_INI_MH	yaf.c	/^PHP_INI_MH(OnUpdateSeparator) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, __clone) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, __construct) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, __destruct) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, __isset) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, count) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, current) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, get) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, key) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, next) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, offsetUnset) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, readonly) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, rewind) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, set) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, toArray) {$/;"	f
+PHP_METHOD	configs/yaf_config_ini.c	/^PHP_METHOD(yaf_config_ini, valid) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, __clone) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, __construct) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, __destruct) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, __isset) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, count) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, current) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, get) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, key) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, next) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, offsetUnset) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, readonly) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, rewind) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, set) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, toArray) {$/;"	f
+PHP_METHOD	configs/yaf_config_simple.c	/^PHP_METHOD(yaf_config_simple, valid) {$/;"	f
+PHP_METHOD	requests/yaf_request_http.c	/^PHP_METHOD(yaf_request_http, __clone) {$/;"	f
+PHP_METHOD	requests/yaf_request_http.c	/^PHP_METHOD(yaf_request_http, __construct) {$/;"	f
+PHP_METHOD	requests/yaf_request_http.c	/^PHP_METHOD(yaf_request_http, get) {$/;"	f
+PHP_METHOD	requests/yaf_request_http.c	/^PHP_METHOD(yaf_request_http, isXmlHttpRequest) {$/;"	f
+PHP_METHOD	requests/yaf_request_simple.c	/^PHP_METHOD(yaf_request_simple, __clone) {$/;"	f
+PHP_METHOD	requests/yaf_request_simple.c	/^PHP_METHOD(yaf_request_simple, __construct) {$/;"	f
+PHP_METHOD	requests/yaf_request_simple.c	/^PHP_METHOD(yaf_request_simple, get) {$/;"	f
+PHP_METHOD	requests/yaf_request_simple.c	/^PHP_METHOD(yaf_request_simple, isXmlHttpRequest) {$/;"	f
+PHP_METHOD	responses/yaf_response_http.c	/^PHP_METHOD(yaf_response_http, clearHeaders) {$/;"	f
+PHP_METHOD	responses/yaf_response_http.c	/^PHP_METHOD(yaf_response_http, getHeader) {$/;"	f
+PHP_METHOD	responses/yaf_response_http.c	/^PHP_METHOD(yaf_response_http, response) {$/;"	f
+PHP_METHOD	responses/yaf_response_http.c	/^PHP_METHOD(yaf_response_http, setAllHeaders) {$/;"	f
+PHP_METHOD	responses/yaf_response_http.c	/^PHP_METHOD(yaf_response_http, setHeader) {$/;"	f
+PHP_METHOD	responses/yaf_response_http.c	/^PHP_METHOD(yaf_response_http, setRedirect) {$/;"	f
+PHP_METHOD	routes/yaf_route_map.c	/^PHP_METHOD(yaf_route_map, __construct) {$/;"	f
+PHP_METHOD	routes/yaf_route_map.c	/^PHP_METHOD(yaf_route_map, assemble) {$/;"	f
+PHP_METHOD	routes/yaf_route_map.c	/^PHP_METHOD(yaf_route_map, route) {$/;"	f
+PHP_METHOD	routes/yaf_route_regex.c	/^PHP_METHOD(yaf_route_regex, __construct) {$/;"	f
+PHP_METHOD	routes/yaf_route_regex.c	/^PHP_METHOD(yaf_route_regex, assemble) {$/;"	f
+PHP_METHOD	routes/yaf_route_regex.c	/^PHP_METHOD(yaf_route_regex, route) {$/;"	f
+PHP_METHOD	routes/yaf_route_rewrite.c	/^PHP_METHOD(yaf_route_rewrite, __construct) {$/;"	f
+PHP_METHOD	routes/yaf_route_rewrite.c	/^PHP_METHOD(yaf_route_rewrite, assemble) {$/;"	f
+PHP_METHOD	routes/yaf_route_rewrite.c	/^PHP_METHOD(yaf_route_rewrite, match) {$/;"	f
+PHP_METHOD	routes/yaf_route_rewrite.c	/^PHP_METHOD(yaf_route_rewrite, route) {$/;"	f
+PHP_METHOD	routes/yaf_route_simple.c	/^PHP_METHOD(yaf_route_simple, __construct) {$/;"	f
+PHP_METHOD	routes/yaf_route_simple.c	/^PHP_METHOD(yaf_route_simple, assemble) {$/;"	f
+PHP_METHOD	routes/yaf_route_simple.c	/^PHP_METHOD(yaf_route_simple, route) {$/;"	f
+PHP_METHOD	routes/yaf_route_static.c	/^PHP_METHOD(yaf_route_static, assemble) {$/;"	f
+PHP_METHOD	routes/yaf_route_static.c	/^PHP_METHOD(yaf_route_static, match) {$/;"	f
+PHP_METHOD	routes/yaf_route_static.c	/^PHP_METHOD(yaf_route_static, route) {$/;"	f
+PHP_METHOD	routes/yaf_route_supervar.c	/^PHP_METHOD(yaf_route_supervar, __construct) {$/;"	f
+PHP_METHOD	routes/yaf_route_supervar.c	/^PHP_METHOD(yaf_route_supervar, assemble) {$/;"	f
+PHP_METHOD	routes/yaf_route_supervar.c	/^PHP_METHOD(yaf_route_supervar, route) {$/;"	f
+PHP_METHOD	views/yaf_view_simple.c	/^PHP_METHOD(yaf_view_simple, __construct) {$/;"	f
+PHP_METHOD	views/yaf_view_simple.c	/^PHP_METHOD(yaf_view_simple, __isset) {$/;"	f
+PHP_METHOD	views/yaf_view_simple.c	/^PHP_METHOD(yaf_view_simple, assign) {$/;"	f
+PHP_METHOD	views/yaf_view_simple.c	/^PHP_METHOD(yaf_view_simple, assignRef) {$/;"	f
+PHP_METHOD	views/yaf_view_simple.c	/^PHP_METHOD(yaf_view_simple, clear) {$/;"	f
+PHP_METHOD	views/yaf_view_simple.c	/^PHP_METHOD(yaf_view_simple, compose) {$/;"	f
+PHP_METHOD	views/yaf_view_simple.c	/^PHP_METHOD(yaf_view_simple, display) {$/;"	f
+PHP_METHOD	views/yaf_view_simple.c	/^PHP_METHOD(yaf_view_simple, eval) {$/;"	f
+PHP_METHOD	views/yaf_view_simple.c	/^PHP_METHOD(yaf_view_simple, get) {$/;"	f
+PHP_METHOD	views/yaf_view_simple.c	/^PHP_METHOD(yaf_view_simple, getScriptPath) {$/;"	f
+PHP_METHOD	views/yaf_view_simple.c	/^PHP_METHOD(yaf_view_simple, render) {$/;"	f
+PHP_METHOD	views/yaf_view_simple.c	/^PHP_METHOD(yaf_view_simple, setScriptPath) {$/;"	f
+PHP_METHOD	yaf_action.c	/^PHP_METHOD(yaf_action, getController) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, __clone) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, __construct) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, __destruct) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, __sleep) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, __wakeup) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, app) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, bootstrap) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, clearLastError) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, environ) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, execute) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, getAppDirectory) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, getConfig) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, getDispatcher) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, getLastErrorMsg) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, getLastErrorNo) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, getModules) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, run) {$/;"	f
+PHP_METHOD	yaf_application.c	/^PHP_METHOD(yaf_application, setAppDirectory) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, __clone) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, __construct) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, display) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, forward) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, getInvokeArg) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, getInvokeArgs) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, getModuleName) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, getRequest) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, getResponse) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, getView) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, getViewpath) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, init) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, initView) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, redirect) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, render) {$/;"	f
+PHP_METHOD	yaf_controller.c	/^PHP_METHOD(yaf_controller, setViewpath) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, __clone) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, __construct) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, __destruct) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, __sleep) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, __wakeup) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, autoRender) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, catchException) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, disableView) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, dispatch) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, enableView) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, flushInstantly) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, getApplication) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, getInstance) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, getRequest) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, getRouter) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, initView) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, registerPlugin) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, returnResponse) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, setDefaultAction) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, setDefaultController) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, setDefaultModule) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, setErrorHandler) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, setRequest) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, setView) {$/;"	f
+PHP_METHOD	yaf_dispatcher.c	/^PHP_METHOD(yaf_dispatcher, throwException) {$/;"	f
+PHP_METHOD	yaf_exception.c	/^PHP_METHOD(yaf_exception, __construct) {$/;"	f
+PHP_METHOD	yaf_exception.c	/^PHP_METHOD(yaf_exception, getPrevious) {$/;"	f
+PHP_METHOD	yaf_loader.c	/^PHP_METHOD(yaf_loader, __clone) {$/;"	f
+PHP_METHOD	yaf_loader.c	/^PHP_METHOD(yaf_loader, __construct) {$/;"	f
+PHP_METHOD	yaf_loader.c	/^PHP_METHOD(yaf_loader, __destruct) {$/;"	f
+PHP_METHOD	yaf_loader.c	/^PHP_METHOD(yaf_loader, __sleep) {$/;"	f
+PHP_METHOD	yaf_loader.c	/^PHP_METHOD(yaf_loader, __wakeup) {$/;"	f
+PHP_METHOD	yaf_loader.c	/^PHP_METHOD(yaf_loader, autoload) {$/;"	f
+PHP_METHOD	yaf_loader.c	/^PHP_METHOD(yaf_loader, clearLocalNamespace) {$/;"	f
+PHP_METHOD	yaf_loader.c	/^PHP_METHOD(yaf_loader, getInstance) {$/;"	f
+PHP_METHOD	yaf_loader.c	/^PHP_METHOD(yaf_loader, getLibraryPath) {$/;"	f
+PHP_METHOD	yaf_loader.c	/^PHP_METHOD(yaf_loader, getLocalNamespace) {$/;"	f
+PHP_METHOD	yaf_loader.c	/^PHP_METHOD(yaf_loader, import) {$/;"	f
+PHP_METHOD	yaf_loader.c	/^PHP_METHOD(yaf_loader, isLocalName) {$/;"	f
+PHP_METHOD	yaf_loader.c	/^PHP_METHOD(yaf_loader, registerLocalNamespace) {$/;"	f
+PHP_METHOD	yaf_loader.c	/^PHP_METHOD(yaf_loader, setLibraryPath) {$/;"	f
+PHP_METHOD	yaf_plugin.c	/^PHP_METHOD(yaf_plugin, dispatchLoopShutdown) {$/;"	f
+PHP_METHOD	yaf_plugin.c	/^PHP_METHOD(yaf_plugin, dispatchLoopStartup) {$/;"	f
+PHP_METHOD	yaf_plugin.c	/^PHP_METHOD(yaf_plugin, postDispatch) {$/;"	f
+PHP_METHOD	yaf_plugin.c	/^PHP_METHOD(yaf_plugin, preDispatch) {$/;"	f
+PHP_METHOD	yaf_plugin.c	/^PHP_METHOD(yaf_plugin, preResponse) {$/;"	f
+PHP_METHOD	yaf_plugin.c	/^PHP_METHOD(yaf_plugin, routerShutdown) {$/;"	f
+PHP_METHOD	yaf_plugin.c	/^PHP_METHOD(yaf_plugin, routerStartup) {$/;"	f
+PHP_METHOD	yaf_registry.c	/^PHP_METHOD(yaf_registry, __clone) {$/;"	f
+PHP_METHOD	yaf_registry.c	/^PHP_METHOD(yaf_registry, __construct) {$/;"	f
+PHP_METHOD	yaf_registry.c	/^PHP_METHOD(yaf_registry, del) {$/;"	f
+PHP_METHOD	yaf_registry.c	/^PHP_METHOD(yaf_registry, get) {$/;"	f
+PHP_METHOD	yaf_registry.c	/^PHP_METHOD(yaf_registry, getInstance) {$/;"	f
+PHP_METHOD	yaf_registry.c	/^PHP_METHOD(yaf_registry, has) {$/;"	f
+PHP_METHOD	yaf_registry.c	/^PHP_METHOD(yaf_registry, set) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, getActionName) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, getBaseUri) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, getControllerName) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, getException) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, getLanguage) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, getMethod) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, getModuleName) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, getParam) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, getParams) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, getRequestUri) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, isDispatched) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, isRouted) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, isXmlHttpRequest) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, setActionName) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, setBaseUri) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, setControllerName) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, setDispatched) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, setModuleName) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, setParam) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, setRequestUri) {$/;"	f
+PHP_METHOD	yaf_request.c	/^PHP_METHOD(yaf_request, setRouted) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, __clone) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, __construct) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, __destruct) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, __toString) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, appendBody) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, clearBody) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, clearHeaders) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, getBody) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, getHeader) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, prependBody) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, response) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, setAllHeaders) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, setBody) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, setHeader) {$/;"	f
+PHP_METHOD	yaf_response.c	/^PHP_METHOD(yaf_response, setRedirect) {$/;"	f
+PHP_METHOD	yaf_router.c	/^PHP_METHOD(yaf_router, __construct) {$/;"	f
+PHP_METHOD	yaf_router.c	/^PHP_METHOD(yaf_router, addConfig) {$/;"	f
+PHP_METHOD	yaf_router.c	/^PHP_METHOD(yaf_router, addRoute) {$/;"	f
+PHP_METHOD	yaf_router.c	/^PHP_METHOD(yaf_router, getCurrentRoute) {$/;"	f
+PHP_METHOD	yaf_router.c	/^PHP_METHOD(yaf_router, getRoute) {$/;"	f
+PHP_METHOD	yaf_router.c	/^PHP_METHOD(yaf_router, getRoutes) {$/;"	f
+PHP_METHOD	yaf_router.c	/^PHP_METHOD(yaf_router, isModuleName) {$/;"	f
+PHP_METHOD	yaf_router.c	/^PHP_METHOD(yaf_router, route) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, __clone) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, __construct) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, __destruct) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, __sleep) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, __wakeup) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, clear) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, count) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, current) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, del) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, get) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, getInstance) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, has) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, key) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, next) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, rewind) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, set) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, start) {$/;"	f
+PHP_METHOD	yaf_session.c	/^PHP_METHOD(yaf_session, valid) {$/;"	f
+PHP_MINFO_FUNCTION	yaf.c	/^PHP_MINFO_FUNCTION(yaf)$/;"	f
+PHP_MINIT_FUNCTION	yaf.c	/^PHP_MINIT_FUNCTION(yaf)$/;"	f
+PHP_MSHUTDOWN_FUNCTION	yaf.c	/^PHP_MSHUTDOWN_FUNCTION(yaf)$/;"	f
+PHP_RINIT_FUNCTION	yaf.c	/^PHP_RINIT_FUNCTION(yaf)$/;"	f
+PHP_RSHUTDOWN_FUNCTION	yaf.c	/^PHP_RSHUTDOWN_FUNCTION(yaf)$/;"	f
+PHP_YAF_API	php_yaf.h	26;"	d
+PHP_YAF_API	php_yaf.h	31;"	d
+PHP_YAF_APPLICATION_H	yaf_application.h	20;"	d
+PHP_YAF_DISPATCHER_H	yaf_dispatcher.h	20;"	d
+PHP_YAF_H	php_yaf.h	20;"	d
+PHP_YAF_RESPONSE_CLI_H	responses/yaf_response_cli.h	20;"	d
+PHP_YAF_RESPONSE_H	yaf_response.h	20;"	d
+PHP_YAF_RESPONSE_HTTP_H	responses/yaf_response_http.h	20;"	d
+PHP_YAF_VERSION	php_yaf.h	44;"	d
+Post	yaf_request.c	/^YAF_REQUEST_IS_METHOD(Post);$/;"	v
+Put	yaf_request.c	/^YAF_REQUEST_IS_METHOD(Put);$/;"	v
+VIEW_BUFFER_BLOCK_SIZE	views/yaf_view_simple.h	22;"	d
+VIEW_BUFFER_SIZE_MASK	views/yaf_view_simple.h	23;"	d
+YAF_ACTION_EXECUTOR_NAME	yaf_action.h	22;"	d
+YAF_ACTION_H	yaf_action.h	20;"	d
+YAF_ACTION_PROPERTY_NAME_CTRL	yaf_action.h	23;"	d
+YAF_APPLICATION_PROPERTY_NAME_APP	yaf_application.h	25;"	d
+YAF_APPLICATION_PROPERTY_NAME_CONFIG	yaf_application.h	22;"	d
+YAF_APPLICATION_PROPERTY_NAME_DISPATCHER	yaf_application.h	23;"	d
+YAF_APPLICATION_PROPERTY_NAME_ENV	yaf_application.h	26;"	d
+YAF_APPLICATION_PROPERTY_NAME_ERRMSG	yaf_application.h	29;"	d
+YAF_APPLICATION_PROPERTY_NAME_ERRNO	yaf_application.h	28;"	d
+YAF_APPLICATION_PROPERTY_NAME_MODULES	yaf_application.h	27;"	d
+YAF_APPLICATION_PROPERTY_NAME_RUN	yaf_application.h	24;"	d
+YAF_ARG_ARRAY_INFO	yaf_namespace.h	51;"	d
+YAF_ARG_INFO	yaf_namespace.h	49;"	d
+YAF_ARG_OBJ_INFO	yaf_namespace.h	50;"	d
+YAF_AUTOLOAD_FUNC_NAME	yaf_loader.h	33;"	d
+YAF_BEGIN_ARG_INFO	yaf_namespace.h	23;"	d
+YAF_BEGIN_ARG_INFO	yaf_namespace.h	43;"	d
+YAF_BEGIN_ARG_INFO_EX	yaf_namespace.h	24;"	d
+YAF_BEGIN_ARG_INFO_EX	yaf_namespace.h	44;"	d
+YAF_BOOTSTRAP_H	yaf_bootstrap.h	20;"	d
+YAF_BOOTSTRAP_INITFUNC_PREFIX	yaf_bootstrap.h	25;"	d
+YAF_CONFIG_H	yaf_config.h	20;"	d
+YAF_CONFIG_INI_H	configs/yaf_config_ini.h	20;"	d
+YAF_CONFIG_INI_PARSING_END	configs/yaf_config_ini.h	24;"	d
+YAF_CONFIG_INI_PARSING_PROCESS	configs/yaf_config_ini.h	23;"	d
+YAF_CONFIG_INI_PARSING_START	configs/yaf_config_ini.h	22;"	d
+YAF_CONFIG_PROPERT_NAME	yaf_config.h	23;"	d
+YAF_CONFIG_PROPERT_NAME_READONLY	yaf_config.h	24;"	d
+YAF_CONFIG_SIMPLE_H	configs/yaf_config_simple.h	20;"	d
+YAF_CONTROLLER_DIRECTORY_NAME	yaf_loader.h	26;"	d
+YAF_CONTROLLER_H	yaf_controller.h	20;"	d
+YAF_CONTROLLER_PROPERTY_NAME_ACTIONS	yaf_controller.h	28;"	d
+YAF_CONTROLLER_PROPERTY_NAME_ARGS	yaf_controller.h	27;"	d
+YAF_CONTROLLER_PROPERTY_NAME_MODULE	yaf_controller.h	22;"	d
+YAF_CONTROLLER_PROPERTY_NAME_NAME	yaf_controller.h	23;"	d
+YAF_CONTROLLER_PROPERTY_NAME_RENDER	yaf_controller.h	31;"	d
+YAF_CONTROLLER_PROPERTY_NAME_REQUEST	yaf_controller.h	26;"	d
+YAF_CONTROLLER_PROPERTY_NAME_RESPONSE	yaf_controller.h	25;"	d
+YAF_CONTROLLER_PROPERTY_NAME_SCRIPT	yaf_controller.h	24;"	d
+YAF_CONTROLLER_PROPERTY_NAME_VIEW	yaf_controller.h	29;"	d
+YAF_CORRESPOND_ERROR	yaf_exception.h	41;"	d
+YAF_DEFAULT_BOOTSTRAP	yaf_bootstrap.h	22;"	d
+YAF_DEFAULT_BOOTSTRAP_LEN	yaf_bootstrap.h	24;"	d
+YAF_DEFAULT_BOOTSTRAP_LOWER	yaf_bootstrap.h	23;"	d
+YAF_DEFAULT_EXT	yaf_router.h	25;"	d
+YAF_DEFAULT_LIBRARY_EXT	yaf_loader.h	23;"	d
+YAF_DEFAULT_VIEW_EXT	yaf_loader.h	22;"	d
+YAF_DISPATCHER_PROPERTY_NAME_ACTION	yaf_dispatcher.h	33;"	d
+YAF_DISPATCHER_PROPERTY_NAME_ARGS	yaf_dispatcher.h	29;"	d
+YAF_DISPATCHER_PROPERTY_NAME_CONTROLLER	yaf_dispatcher.h	32;"	d
+YAF_DISPATCHER_PROPERTY_NAME_FLUSH	yaf_dispatcher.h	28;"	d
+YAF_DISPATCHER_PROPERTY_NAME_INSTANCE	yaf_dispatcher.h	25;"	d
+YAF_DISPATCHER_PROPERTY_NAME_MODULE	yaf_dispatcher.h	31;"	d
+YAF_DISPATCHER_PROPERTY_NAME_PLUGINS	yaf_dispatcher.h	38;"	d
+YAF_DISPATCHER_PROPERTY_NAME_RENDER	yaf_dispatcher.h	26;"	d
+YAF_DISPATCHER_PROPERTY_NAME_REQUEST	yaf_dispatcher.h	22;"	d
+YAF_DISPATCHER_PROPERTY_NAME_RETURN	yaf_dispatcher.h	27;"	d
+YAF_DISPATCHER_PROPERTY_NAME_ROUTER	yaf_dispatcher.h	24;"	d
+YAF_DISPATCHER_PROPERTY_NAME_VIEW	yaf_dispatcher.h	23;"	d
+YAF_END_ARG_INFO	yaf_namespace.h	48;"	d
+YAF_ERROR_ACTION	yaf_dispatcher.h	36;"	d
+YAF_ERROR_CONTROLLER	yaf_dispatcher.h	35;"	d
+YAF_ERR_AUTOLOAD_FAILED	yaf_exception.h	36;"	d
+YAF_ERR_BASE	yaf_exception.h	24;"	d
+YAF_ERR_CALL_FAILED	yaf_exception.h	35;"	d
+YAF_ERR_DISPATCH_FAILED	yaf_exception.h	30;"	d
+YAF_ERR_MASK	yaf_exception.h	26;"	d
+YAF_ERR_NOTFOUND_ACTION	yaf_exception.h	33;"	d
+YAF_ERR_NOTFOUND_CONTROLLER	yaf_exception.h	32;"	d
+YAF_ERR_NOTFOUND_MODULE	yaf_exception.h	31;"	d
+YAF_ERR_NOTFOUND_VIEW	yaf_exception.h	34;"	d
+YAF_ERR_ROUTE_FAILED	yaf_exception.h	29;"	d
+YAF_ERR_STARTUP_FAILED	yaf_exception.h	28;"	d
+YAF_ERR_TYPE_ERROR	yaf_exception.h	37;"	d
+YAF_EXCEPTION_ERASE_EXCEPTION	yaf_exception.h	59;"	d
+YAF_EXCEPTION_H	yaf_exception.h	20;"	d
+YAF_EXCEPTION_HANDLE	yaf_exception.h	43;"	d
+YAF_EXCEPTION_HANDLE_NORET	yaf_exception.h	52;"	d
+YAF_EXCEPTION_OFFSET	yaf_exception.h	39;"	d
+YAF_EXTRACT_FUNC_NAME	yaf_config.h	22;"	d
+YAF_G	php_yaf.h	39;"	d
+YAF_G	php_yaf.h	41;"	d
+YAF_GLOBAL_VARS_COOKIE	yaf_request.h	43;"	d
+YAF_GLOBAL_VARS_ENV	yaf_request.h	39;"	d
+YAF_GLOBAL_VARS_FILES	yaf_request.h	40;"	d
+YAF_GLOBAL_VARS_GET	yaf_request.h	38;"	d
+YAF_GLOBAL_VARS_POST	yaf_request.h	37;"	d
+YAF_GLOBAL_VARS_REQUEST	yaf_request.h	42;"	d
+YAF_GLOBAL_VARS_SERVER	yaf_request.h	41;"	d
+YAF_GLOBAL_VARS_TYPE	yaf_request.h	36;"	d
+YAF_HAVE_NAMESPACE	php_yaf.h	53;"	d
+YAF_HAVE_NAMESPACE	yaf_namespace.h	38;"	d
+YAF_INIT_CLASS_ENTRY	yaf_namespace.h	29;"	d
+YAF_INIT_CLASS_ENTRY	yaf_namespace.h	42;"	d
+YAF_LIBRARY_DIRECTORY_NAME	yaf_loader.h	25;"	d
+YAF_LOADER_CONTROLLER	yaf_loader.h	37;"	d
+YAF_LOADER_DAO	yaf_loader.h	47;"	d
+YAF_LOADER_H	yaf_loader.h	20;"	d
+YAF_LOADER_LEN_CONTROLLER	yaf_loader.h	38;"	d
+YAF_LOADER_LEN_DAO	yaf_loader.h	48;"	d
+YAF_LOADER_LEN_MODEL	yaf_loader.h	40;"	d
+YAF_LOADER_LEN_PLUGIN	yaf_loader.h	42;"	d
+YAF_LOADER_LEN_RESERVERD	yaf_loader.h	44;"	d
+YAF_LOADER_LEN_SERVICE	yaf_loader.h	50;"	d
+YAF_LOADER_MODEL	yaf_loader.h	39;"	d
+YAF_LOADER_PLUGIN	yaf_loader.h	41;"	d
+YAF_LOADER_PROPERTY_NAME_GLOBAL_LIB	yaf_loader.h	54;"	d
+YAF_LOADER_PROPERTY_NAME_INSTANCE	yaf_loader.h	34;"	d
+YAF_LOADER_PROPERTY_NAME_LIBRARY	yaf_loader.h	53;"	d
+YAF_LOADER_PROPERTY_NAME_NAMESPACE	yaf_loader.h	35;"	d
+YAF_LOADER_RESERVERD	yaf_loader.h	43;"	d
+YAF_LOADER_SERVICE	yaf_loader.h	49;"	d
+YAF_LOGO_BASE64	yaf_logo.h	176;"	d
+YAF_LOGO_DATA	yaf_logo.h	206;"	d
+YAF_LOGO_GUID	yaf_logo.h	24;"	d
+YAF_LOGO_H	yaf_logo.h	20;"	d
+YAF_LOGO_IMG	yaf_logo.h	208;"	d
+YAF_LOGO_IMG	yaf_logo.h	26;"	d
+YAF_LOGO_MIME_TYPE	yaf_logo.h	23;"	d
+YAF_MAX_BUILDIN_EXCEPTION	yaf_exception.h	22;"	d
+YAF_ME	php_yaf.h	78;"	d
+YAF_MODEL_DIRECTORY_NAME	yaf_loader.h	30;"	d
+YAF_MODULE_DIRECTORY_NAME	yaf_loader.h	28;"	d
+YAF_NAMESPACE_H	yaf_namespace.h	20;"	d
+YAF_PLUGIN_DIRECTORY_NAME	yaf_loader.h	27;"	d
+YAF_PLUGIN_H	yaf_plugin.h	20;"	d
+YAF_PLUGIN_HANDLE	yaf_dispatcher.h	48;"	d
+YAF_PLUGIN_HOOK_LOOPSHUTDOWN	yaf_dispatcher.h	45;"	d
+YAF_PLUGIN_HOOK_LOOPSTARTUP	yaf_dispatcher.h	42;"	d
+YAF_PLUGIN_HOOK_POSTDISPATCH	yaf_dispatcher.h	44;"	d
+YAF_PLUGIN_HOOK_PREDISPATCH	yaf_dispatcher.h	43;"	d
+YAF_PLUGIN_HOOK_PRERESPONSE	yaf_dispatcher.h	46;"	d
+YAF_PLUGIN_HOOK_ROUTESHUTDOWN	yaf_dispatcher.h	41;"	d
+YAF_PLUGIN_HOOK_ROUTESTARTUP	yaf_dispatcher.h	40;"	d
+YAF_REDIRECT_OUTPUT_BUFFER	yaf_view.h	41;"	d
+YAF_REGISTRY_H	yaf_registry.h	20;"	d
+YAF_REGISTRY_PROPERTY_NAME_ENTRYS	yaf_registry.h	22;"	d
+YAF_REGISTRY_PROPERTY_NAME_INSTANCE	yaf_registry.h	23;"	d
+YAF_REQUEST_H	yaf_request.h	20;"	d
+YAF_REQUEST_HTTP_H	requests/yaf_request_http.h	20;"	d
+YAF_REQUEST_IS_METHOD	yaf_request.h	45;"	d
+YAF_REQUEST_METHOD	yaf_request.h	54;"	d
+YAF_REQUEST_PROPERTY_NAME_ACTION	yaf_request.h	24;"	d
+YAF_REQUEST_PROPERTY_NAME_BASE	yaf_request.h	31;"	d
+YAF_REQUEST_PROPERTY_NAME_CONTROLLER	yaf_request.h	23;"	d
+YAF_REQUEST_PROPERTY_NAME_EXCEPTION	yaf_request.h	32;"	d
+YAF_REQUEST_PROPERTY_NAME_LANG	yaf_request.h	29;"	d
+YAF_REQUEST_PROPERTY_NAME_METHOD	yaf_request.h	25;"	d
+YAF_REQUEST_PROPERTY_NAME_MODULE	yaf_request.h	22;"	d
+YAF_REQUEST_PROPERTY_NAME_PARAMS	yaf_request.h	26;"	d
+YAF_REQUEST_PROPERTY_NAME_ROUTED	yaf_request.h	30;"	d
+YAF_REQUEST_PROPERTY_NAME_STATE	yaf_request.h	28;"	d
+YAF_REQUEST_PROPERTY_NAME_URI	yaf_request.h	27;"	d
+YAF_REQUEST_SERVER_URI	yaf_request.h	34;"	d
+YAF_REQUEST_SIMPLE_H	requests/yaf_request_simple.h	20;"	d
+YAF_RESPONSE_APPEND	yaf_response.h	30;"	d
+YAF_RESPONSE_PREPEND	yaf_response.h	29;"	d
+YAF_RESPONSE_PROPERTY_NAME_BODY	yaf_response.h	23;"	d
+YAF_RESPONSE_PROPERTY_NAME_DEFAULTBODY	yaf_response.h	25;"	d
+YAF_RESPONSE_PROPERTY_NAME_DEFAULTBODYNAME	yaf_response.h	26;"	d
+YAF_RESPONSE_PROPERTY_NAME_HEADER	yaf_response.h	22;"	d
+YAF_RESPONSE_PROPERTY_NAME_HEADEREXCEPTION	yaf_response.h	24;"	d
+YAF_RESPONSE_PROPERTY_NAME_RESPONSECODE	responses/yaf_response_http.h	22;"	d
+YAF_RESPONSE_REPLACE	yaf_response.h	28;"	d
+YAF_RESTORE_EG_ENVIRON	yaf_loader.h	63;"	d
+YAF_RESTORE_EG_ENVIRON	yaf_loader.h	78;"	d
+YAF_RESTORE_OUTPUT_BUFFER	yaf_view.h	56;"	d
+YAF_RINIT_FUNCTION	php_yaf.h	47;"	d
+YAF_ROUTER_DEFAULT_ACTION	yaf_router.h	22;"	d
+YAF_ROUTER_DEFAULT_CONTROLLER	yaf_router.h	23;"	d
+YAF_ROUTER_DEFAULT_MODULE	yaf_router.h	24;"	d
+YAF_ROUTER_H	yaf_router.h	20;"	d
+YAF_ROUTER_INTERFACE_H	routes/yaf_route_interface.h	20;"	d
+YAF_ROUTER_MAP_H	routes/yaf_route_map.h	20;"	d
+YAF_ROUTER_PROPERTY_NAME_CURRENT_ROUTE	yaf_router.h	28;"	d
+YAF_ROUTER_PROPERTY_NAME_ROUTES	yaf_router.h	27;"	d
+YAF_ROUTER_REGEX_H	routes/yaf_route_regex.h	20;"	d
+YAF_ROUTER_REWRITE_H	routes/yaf_route_rewrite.h	20;"	d
+YAF_ROUTER_SIMPLE_H	routes/yaf_route_simple.h	20;"	d
+YAF_ROUTER_STATIC_H	routes/yaf_route_static.h	20;"	d
+YAF_ROUTER_SUPERVAR_H	routes/yaf_route_supervar.h	20;"	d
+YAF_ROUTER_URL_DELIMIETER	routes/yaf_route_interface.h	32;"	d
+YAF_ROUTE_ASSEMBLE_ACTION_FORMAT	routes/yaf_route_interface.h	23;"	d
+YAF_ROUTE_ASSEMBLE_CONTROLLER_FORMAT	routes/yaf_route_interface.h	24;"	d
+YAF_ROUTE_ASSEMBLE_MOUDLE_FORMAT	routes/yaf_route_interface.h	22;"	d
+YAF_ROUTE_MAP_VAR_NAME_CTL_PREFER	routes/yaf_route_map.h	23;"	d
+YAF_ROUTE_MAP_VAR_NAME_DELIMETER	routes/yaf_route_map.h	22;"	d
+YAF_ROUTE_PROPETY_NAME_MAP	routes/yaf_route_interface.h	28;"	d
+YAF_ROUTE_PROPETY_NAME_MATCH	routes/yaf_route_interface.h	26;"	d
+YAF_ROUTE_PROPETY_NAME_REVERSE	routes/yaf_route_interface.h	30;"	d
+YAF_ROUTE_PROPETY_NAME_ROUTE	routes/yaf_route_interface.h	27;"	d
+YAF_ROUTE_PROPETY_NAME_VERIFY	routes/yaf_route_interface.h	29;"	d
+YAF_ROUTE_REGEX_DILIMITER	routes/yaf_route_interface.h	33;"	d
+YAF_ROUTE_SIMPLE_VAR_NAME_ACTION	routes/yaf_route_simple.h	24;"	d
+YAF_ROUTE_SIMPLE_VAR_NAME_CONTROLLER	routes/yaf_route_simple.h	23;"	d
+YAF_ROUTE_SIMPLE_VAR_NAME_MODULE	routes/yaf_route_simple.h	22;"	d
+YAF_ROUTE_SUPERVAR_PROPETY_NAME_VAR	routes/yaf_route_supervar.h	22;"	d
+YAF_SESSION_H	yaf_session.h	20;"	d
+YAF_SESSION_PROPERTY_NAME_INSTANCE	yaf_session.h	24;"	d
+YAF_SESSION_PROPERTY_NAME_SESSION	yaf_session.h	23;"	d
+YAF_SESSION_PROPERTY_NAME_STATUS	yaf_session.h	22;"	d
+YAF_SHUTDOWN	php_yaf.h	50;"	d
+YAF_SHUTDOWN_FUNCTION	php_yaf.h	49;"	d
+YAF_SPL_AUTOLOAD_REGISTER_NAME	yaf_loader.h	32;"	d
+YAF_STARTUP	php_yaf.h	48;"	d
+YAF_STARTUP_FUNCTION	configs/yaf_config_ini.c	/^YAF_STARTUP_FUNCTION(config_ini) {$/;"	f
+YAF_STARTUP_FUNCTION	configs/yaf_config_simple.c	/^YAF_STARTUP_FUNCTION(config_simple) {$/;"	f
+YAF_STARTUP_FUNCTION	php_yaf.h	46;"	d
+YAF_STARTUP_FUNCTION	requests/yaf_request_http.c	/^YAF_STARTUP_FUNCTION(request_http){$/;"	f
+YAF_STARTUP_FUNCTION	requests/yaf_request_simple.c	/^YAF_STARTUP_FUNCTION(request_simple){$/;"	f
+YAF_STARTUP_FUNCTION	responses/yaf_response_cli.c	/^YAF_STARTUP_FUNCTION(response_cli) {$/;"	f
+YAF_STARTUP_FUNCTION	responses/yaf_response_http.c	/^YAF_STARTUP_FUNCTION(response_http) {$/;"	f
+YAF_STARTUP_FUNCTION	routes/yaf_route_interface.c	/^YAF_STARTUP_FUNCTION(route) {$/;"	f
+YAF_STARTUP_FUNCTION	routes/yaf_route_map.c	/^YAF_STARTUP_FUNCTION(route_map) {$/;"	f
+YAF_STARTUP_FUNCTION	routes/yaf_route_regex.c	/^YAF_STARTUP_FUNCTION(route_regex) {$/;"	f
+YAF_STARTUP_FUNCTION	routes/yaf_route_rewrite.c	/^YAF_STARTUP_FUNCTION(route_rewrite) {$/;"	f
+YAF_STARTUP_FUNCTION	routes/yaf_route_simple.c	/^YAF_STARTUP_FUNCTION(route_simple) {$/;"	f
+YAF_STARTUP_FUNCTION	routes/yaf_route_static.c	/^YAF_STARTUP_FUNCTION(route_static) {$/;"	f
+YAF_STARTUP_FUNCTION	routes/yaf_route_supervar.c	/^YAF_STARTUP_FUNCTION(route_supervar) {$/;"	f
+YAF_STARTUP_FUNCTION	views/yaf_view_interface.c	/^YAF_STARTUP_FUNCTION(view_interface) {$/;"	f
+YAF_STARTUP_FUNCTION	views/yaf_view_simple.c	/^YAF_STARTUP_FUNCTION(view_simple) {$/;"	f
+YAF_STARTUP_FUNCTION	yaf_action.c	/^YAF_STARTUP_FUNCTION(action) {$/;"	f
+YAF_STARTUP_FUNCTION	yaf_application.c	/^YAF_STARTUP_FUNCTION(application) {\/\/Yaf_Application的类定义函数，在模块初始化函数MINT中调用$/;"	f
+YAF_STARTUP_FUNCTION	yaf_bootstrap.c	/^YAF_STARTUP_FUNCTION(bootstrap) {$/;"	f
+YAF_STARTUP_FUNCTION	yaf_config.c	/^YAF_STARTUP_FUNCTION(config) {$/;"	f
+YAF_STARTUP_FUNCTION	yaf_controller.c	/^YAF_STARTUP_FUNCTION(controller) {$/;"	f
+YAF_STARTUP_FUNCTION	yaf_dispatcher.c	/^YAF_STARTUP_FUNCTION(dispatcher) {$/;"	f
+YAF_STARTUP_FUNCTION	yaf_exception.c	/^YAF_STARTUP_FUNCTION(exception) {$/;"	f
+YAF_STARTUP_FUNCTION	yaf_loader.c	/^YAF_STARTUP_FUNCTION(loader) {$/;"	f
+YAF_STARTUP_FUNCTION	yaf_plugin.c	/^YAF_STARTUP_FUNCTION(plugin) {$/;"	f
+YAF_STARTUP_FUNCTION	yaf_registry.c	/^YAF_STARTUP_FUNCTION(registry) {$/;"	f
+YAF_STARTUP_FUNCTION	yaf_request.c	/^YAF_STARTUP_FUNCTION(request){$/;"	f
+YAF_STARTUP_FUNCTION	yaf_response.c	/^YAF_STARTUP_FUNCTION(response) {$/;"	f
+YAF_STARTUP_FUNCTION	yaf_router.c	/^YAF_STARTUP_FUNCTION(router) {$/;"	f
+YAF_STARTUP_FUNCTION	yaf_session.c	/^YAF_STARTUP_FUNCTION(session) {$/;"	f
+YAF_STARTUP_FUNCTION	yaf_view.c	/^YAF_STARTUP_FUNCTION(view) {$/;"	f
+YAF_STORE_EG_ENVIRON	yaf_loader.h	57;"	d
+YAF_STORE_EG_ENVIRON	yaf_loader.h	71;"	d
+YAF_SUPPORT_URL	yaf_logo.h	207;"	d
+YAF_SUPPORT_URL	yaf_logo.h	25;"	d
+YAF_UERR_BASE	yaf_exception.h	25;"	d
+YAF_UNINITIALIZED_OBJECT	yaf_exception.h	64;"	d
+YAF_VIEW_DIRECTORY_NAME	yaf_loader.h	29;"	d
+YAF_VIEW_H	yaf_view.h	20;"	d
+YAF_VIEW_INTERFACE_H	views/yaf_view_interface.h	20;"	d
+YAF_VIEW_PROPERTY_NAME_OPTS	yaf_view.h	27;"	d
+YAF_VIEW_PROPERTY_NAME_TPLDIR	yaf_view.h	26;"	d
+YAF_VIEW_PROPERTY_NAME_TPLVARS	yaf_view.h	25;"	d
+YAF_VIEW_SIMPLE_H	views/yaf_view_simple.h	20;"	d
+Z_ADDREF_P	php_yaf.h	57;"	d
+Z_DELREF_P	php_yaf.h	59;"	d
+Z_REFCOUNT_P	php_yaf.h	58;"	d
+Z_SET_REFCOUNT_P	php_yaf.h	55;"	d
+Z_SET_REFCOUNT_PP	php_yaf.h	56;"	d
+_MSC_VER	php_yaf.h	28;"	d
+_yaf_config_cache	yaf_config.h	/^struct _yaf_config_cache {$/;"	s
+_yaf_view_simple_buffer	yaf_view.h	/^struct _yaf_view_simple_buffer {$/;"	s
+action	yaf_action.h	/^YAF_STARTUP_FUNCTION(action);$/;"	v
+action_prefer	php_yaf.h	/^	zend_bool   action_prefer;$/;"	v
+active_ini_file_section	php_yaf.h	/^	zval        *active_ini_file_section;$/;"	v
+application	yaf_application.h	/^YAF_STARTUP_FUNCTION(application);\/\/YAF_STARTUP_FUNCTION最总展开为 zend_startup_yaf_application$/;"	v
+autoload_started	php_yaf.h	/^	zend_bool  	autoload_started;$/;"	v
+base_uri	php_yaf.h	/^	char		*base_uri;$/;"	v
+bootstrap	php_yaf.h	/^	char 		*bootstrap;$/;"	v
+bootstrap	yaf_bootstrap.h	/^YAF_STARTUP_FUNCTION(bootstrap);$/;"	v
+br	yaf.php	/^$br = (php_sapi_name() == "cli")? "":"<br>";$/;"	v
+buf_nesting	php_yaf.h	/^	uint 		buf_nesting;$/;"	v
+buffer	php_yaf.h	/^	void		*buffer;$/;"	v
+buffer	yaf_view.h	/^	char *buffer;$/;"	m	struct:_yaf_view_simple_buffer
+cache_config	php_yaf.h	/^	zend_bool 	cache_config;$/;"	v
+catch_exception	php_yaf.h	/^	zend_bool  	catch_exception;$/;"	v
+config	yaf_config.h	/^YAF_STARTUP_FUNCTION(config);$/;"	v
+config_ini	configs/yaf_config_ini.h	/^YAF_STARTUP_FUNCTION(config_ini);$/;"	v
+config_simple	configs/yaf_config_simple.h	/^YAF_STARTUP_FUNCTION(config_simple);$/;"	v
+configs	php_yaf.h	/^	HashTable	*configs;$/;"	v
+controller	yaf_controller.h	/^YAF_STARTUP_FUNCTION(controller);$/;"	v
+ctime	yaf_config.h	/^	long ctime;$/;"	m	struct:_yaf_config_cache
+data	yaf_config.h	/^	HashTable *data;$/;"	m	struct:_yaf_config_cache
+default_action	php_yaf.h	/^	char 		*default_action;$/;"	v
+default_controller	php_yaf.h	/^	char 		*default_controller;$/;"	v
+default_module	php_yaf.h	/^	char 		*default_module;$/;"	v
+default_route	php_yaf.h	/^	zval        *default_route;$/;"	v
+directory	php_yaf.h	/^	char 		*directory;$/;"	v
+dispatcher	yaf_dispatcher.h	/^YAF_STARTUP_FUNCTION(dispatcher);$/;"	v
+environ	php_yaf.h	/^	char 		*environ;$/;"	v
+exception	yaf_exception.h	/^YAF_STARTUP_FUNCTION(exception);$/;"	v
+ext	php_yaf.h	/^	char 		*ext;$/;"	v
+forward_limit	php_yaf.h	/^	long		forward_limit;$/;"	v
+function	yaf.php	/^$function = 'confirm_' . $module . '_compiled';$/;"	v
+functions	yaf.php	/^$functions = get_extension_funcs($module);$/;"	v
+global_library	php_yaf.h	/^	char 		*global_library;$/;"	v
+in_exception	php_yaf.h	/^	zend_bool  	in_exception;$/;"	v
+ini_wanted_section	php_yaf.h	/^	zval        *ini_wanted_section;$/;"	v
+len	yaf_view.h	/^	unsigned long len;$/;"	m	struct:_yaf_view_simple_buffer
+loader	yaf_loader.h	/^YAF_STARTUP_FUNCTION(loader);$/;"	v
+local_library	php_yaf.h	/^	char 		*local_library;$/;"	v
+local_namespaces	php_yaf.h	/^	char        *local_namespaces;$/;"	v
+lowcase_path	php_yaf.h	/^	zend_bool 	lowcase_path;$/;"	v
+module	yaf.php	/^$module = 'ap';$/;"	v
+modules	php_yaf.h	/^	zval 		*modules;$/;"	v
+name_separator	php_yaf.h	/^	char 		*name_separator;$/;"	v
+name_separator_len	php_yaf.h	/^	long 		name_separator_len;$/;"	v
+name_suffix	php_yaf.h	/^	zend_bool	name_suffix;$/;"	v
+namespace_switch	yaf_namespace.h	26;"	d
+namespace_switch	yaf_namespace.h	41;"	d
+owrite_handler	php_yaf.h	/^	void 		*owrite_handler;$/;"	v
+parsing_flag	php_yaf.h	/^	uint        parsing_flag;$/;"	v
+pestrndup	yaf_config.h	40;"	d
+phpext_yaf_ptr	php_yaf.h	23;"	d
+plugin	yaf_plugin.h	/^YAF_STARTUP_FUNCTION(plugin);$/;"	v
+prev	yaf_view.h	/^	struct _yaf_view_simple_buffer *prev;$/;"	m	struct:_yaf_view_simple_buffer	typeref:struct:_yaf_view_simple_buffer::_yaf_view_simple_buffer
+registry	yaf_registry.h	/^YAF_STARTUP_FUNCTION(registry);$/;"	v
+request	yaf_request.h	/^YAF_STARTUP_FUNCTION(request);$/;"	v
+request_http	requests/yaf_request_http.h	/^YAF_STARTUP_FUNCTION(request_http);$/;"	v
+request_simple	requests/yaf_request_simple.h	/^YAF_STARTUP_FUNCTION(request_simple);$/;"	v
+response	yaf_response.h	/^YAF_STARTUP_FUNCTION(response);$/;"	v
+response_cli	responses/yaf_response_cli.h	/^YAF_STARTUP_FUNCTION(response_cli);$/;"	v
+response_http	responses/yaf_response_http.h	/^YAF_STARTUP_FUNCTION(response_http);$/;"	v
+route	routes/yaf_route_interface.h	/^YAF_STARTUP_FUNCTION(route);$/;"	v
+route_map	routes/yaf_route_map.h	/^YAF_STARTUP_FUNCTION(route_map);$/;"	v
+route_regex	routes/yaf_route_regex.h	/^YAF_STARTUP_FUNCTION(route_regex);$/;"	v
+route_rewrite	routes/yaf_route_rewrite.h	/^YAF_STARTUP_FUNCTION(route_rewrite);$/;"	v
+route_simple	routes/yaf_route_simple.h	/^YAF_STARTUP_FUNCTION(route_simple);$/;"	v
+route_static	routes/yaf_route_static.h	/^YAF_STARTUP_FUNCTION(route_static);$/;"	v
+route_supervar	routes/yaf_route_supervar.h	/^YAF_STARTUP_FUNCTION(route_supervar);$/;"	v
+router	yaf_router.h	/^YAF_STARTUP_FUNCTION(router);$/;"	v
+running	php_yaf.h	/^	zend_bool  	running;$/;"	v
+session	yaf_session.h	/^YAF_STARTUP_FUNCTION(session);$/;"	v
+set_error_handler	yaf_dispatcher.h	/^PHP_FUNCTION(set_error_handler);$/;"	v
+size	yaf_view.h	/^	unsigned long size;$/;"	m	struct:_yaf_view_simple_buffer
+st_compatible	php_yaf.h	/^	zend_bool  	st_compatible;$/;"	v
+str	yaf.php	/^	$str = "Module $module is not compiled into PHP";$/;"	v
+str	yaf.php	/^	$str = $function($module);$/;"	v
+strip_slashs	routes/yaf_route_static.c	50;"	d	file:
+suppressing_warning	php_yaf.h	/^	zend_bool   suppressing_warning;$/;"	v
+throw_exception	php_yaf.h	/^	zend_bool 	throw_exception;$/;"	v
+use_namespace	php_yaf.h	/^	zend_bool	use_namespace;$/;"	v
+use_spl_autoload	php_yaf.h	/^	zend_bool 	use_spl_autoload;$/;"	v
+view	yaf_view.h	/^YAF_STARTUP_FUNCTION(view);$/;"	v
+view_directory	php_yaf.h	/^	char        *view_directory;$/;"	v
+view_ext	php_yaf.h	/^	char 		*view_ext;$/;"	v
+view_interface	views/yaf_view_interface.h	/^YAF_STARTUP_FUNCTION(view_interface);$/;"	v
+view_simple	views/yaf_view_simple.h	/^YAF_STARTUP_FUNCTION(view_simple);$/;"	v
+yaf	php_yaf.h	/^PHP_MINFO_FUNCTION(yaf);$/;"	v
+yaf	php_yaf.h	/^PHP_MINIT_FUNCTION(yaf);$/;"	v
+yaf	php_yaf.h	/^PHP_MSHUTDOWN_FUNCTION(yaf);$/;"	v
+yaf	php_yaf.h	/^PHP_RINIT_FUNCTION(yaf);$/;"	v
+yaf	php_yaf.h	/^PHP_RSHUTDOWN_FUNCTION(yaf);$/;"	v
+yaf	yaf.c	/^ZEND_DECLARE_MODULE_GLOBALS(yaf);$/;"	v
+yaf_action_ce	yaf_action.c	/^zend_class_entry *yaf_action_ce;$/;"	v
+yaf_action_methods	yaf_action.c	/^zend_function_entry yaf_action_methods[] = {$/;"	v
+yaf_action_t	php_yaf.h	69;"	d
+yaf_application_ce	yaf_application.c	/^zend_class_entry * yaf_application_ce;$/;"	v
+yaf_application_is_module_name	yaf_application.c	/^int yaf_application_is_module_name(char *name, int len TSRMLS_DC) {$/;"	f
+yaf_application_methods	yaf_application.c	/^zend_function_entry yaf_application_methods[] = {$/;"	v
+yaf_application_parse_option	yaf_application.c	/^static int yaf_application_parse_option(zval *options TSRMLS_DC) {$/;"	f	file:
+yaf_application_t	php_yaf.h	62;"	d
+yaf_body_write_func	yaf_view.h	/^typedef int(*yaf_body_write_func)(const char *str, uint str_length TSRMLS_DC);$/;"	t
+yaf_bootstrap_ce	yaf_bootstrap.c	/^zend_class_entry *yaf_bootstrap_ce;$/;"	v
+yaf_bootstrap_methods	yaf_bootstrap.c	/^zend_function_entry yaf_bootstrap_methods[] = {$/;"	v
+yaf_buildin_exceptions	yaf_exception.c	/^zend_class_entry *yaf_buildin_exceptions[YAF_MAX_BUILDIN_EXCEPTION];$/;"	v
+yaf_ce_RuntimeException	yaf_exception.c	/^zend_class_entry *yaf_ce_RuntimeException;$/;"	v
+yaf_config_cache	yaf_config.h	/^typedef struct _yaf_config_cache yaf_config_cache;$/;"	t	typeref:struct:_yaf_config_cache
+yaf_config_cache_dtor	yaf_config.c	/^static void yaf_config_cache_dtor(yaf_config_cache **cache) {$/;"	f	file:
+yaf_config_ce	yaf_config.c	/^zend_class_entry *yaf_config_ce;$/;"	v
+yaf_config_copy_losable	yaf_config.c	/^static void yaf_config_copy_losable(HashTable *ldst, HashTable *src TSRMLS_DC) {$/;"	f	file:
+yaf_config_copy_persistent	yaf_config.c	/^static void yaf_config_copy_persistent(HashTable *pdst, HashTable *src TSRMLS_DC) {$/;"	f	file:
+yaf_config_ini_ce	configs/yaf_config_ini.c	/^zend_class_entry *yaf_config_ini_ce;$/;"	v
+yaf_config_ini_format	configs/yaf_config_ini.c	/^zval * yaf_config_ini_format(yaf_config_t *instance, zval **ppzval TSRMLS_DC) {$/;"	f
+yaf_config_ini_instance	configs/yaf_config_ini.c	/^yaf_config_t * yaf_config_ini_instance(yaf_config_t *this_ptr, zval *filename, zval *section_name TSRMLS_DC) {$/;"	f
+yaf_config_ini_methods	configs/yaf_config_ini.c	/^zend_function_entry yaf_config_ini_methods[] = {$/;"	v
+yaf_config_ini_modified	yaf_config.c	/^static int yaf_config_ini_modified(zval * file, long ctime TSRMLS_DC) {$/;"	f	file:
+yaf_config_ini_parser_cb	configs/yaf_config_ini.c	/^static void yaf_config_ini_parser_cb(zval *key, zval *value, int callback_type, zval *arr) {$/;"	f	file:
+yaf_config_ini_parser_cb	configs/yaf_config_ini.c	/^static void yaf_config_ini_parser_cb(zval *key, zval *value, zval *index, int callback_type, zval *arr TSRMLS_DC) {$/;"	f	file:
+yaf_config_ini_serialize	yaf_config.c	/^static void yaf_config_ini_serialize(yaf_config_t *this_ptr, zval *filename, zval *section TSRMLS_DC) {$/;"	f	file:
+yaf_config_ini_simple_parser_cb	configs/yaf_config_ini.c	/^static void yaf_config_ini_simple_parser_cb(zval *key, zval *value, int callback_type, zval *arr) {$/;"	f	file:
+yaf_config_ini_simple_parser_cb	configs/yaf_config_ini.c	/^static void yaf_config_ini_simple_parser_cb(zval *key, zval *value, zval *index, int callback_type, zval *arr TSRMLS_DC) {$/;"	f	file:
+yaf_config_ini_unserialize	yaf_config.c	/^static yaf_config_t * yaf_config_ini_unserialize(yaf_config_t *this_ptr, zval *filename, zval *section TSRMLS_DC) {$/;"	f	file:
+yaf_config_ini_zval_losable	yaf_config.c	/^static zval * yaf_config_ini_zval_losable(zval *zvalue TSRMLS_DC) {$/;"	f	file:
+yaf_config_ini_zval_persistent	yaf_config.c	/^static zval * yaf_config_ini_zval_persistent(zval *zvalue TSRMLS_DC) {$/;"	f	file:
+yaf_config_instance	yaf_config.c	/^yaf_config_t * yaf_config_instance(yaf_config_t *this_ptr, zval *arg1, zval *arg2 TSRMLS_DC) {$/;"	f
+yaf_config_methods	yaf_config.c	/^zend_function_entry yaf_config_methods[] = {$/;"	v
+yaf_config_simple_ce	configs/yaf_config_simple.c	/^zend_class_entry *yaf_config_simple_ce;$/;"	v
+yaf_config_simple_format	configs/yaf_config_simple.c	/^zval * yaf_config_simple_format(yaf_config_t *instance, zval **ppzval TSRMLS_DC) {$/;"	f
+yaf_config_simple_instance	configs/yaf_config_simple.c	/^yaf_config_t * yaf_config_simple_instance(yaf_config_t *this_ptr, zval *values, zval *readonly TSRMLS_DC) {$/;"	f
+yaf_config_simple_methods	configs/yaf_config_simple.c	/^zend_function_entry yaf_config_simple_methods[] = {$/;"	v
+yaf_config_t	php_yaf.h	72;"	d
+yaf_config_zval_dtor	yaf_config.c	/^static void yaf_config_zval_dtor(zval **value) {$/;"	f	file:
+yaf_controller_ce	yaf_controller.c	/^zend_class_entry * yaf_controller_ce;$/;"	v
+yaf_controller_construct	yaf_controller.c	/^int yaf_controller_construct(zend_class_entry *ce, yaf_controller_t *self, yaf_request_t *request, yaf_response_t *response, yaf_view_t *view, zval *args TSRMLS_DC) {$/;"	f
+yaf_controller_display	yaf_controller.c	/^int yaf_controller_display(yaf_controller_t *instance, char *action_name, int len, zval *var_array TSRMLS_DC) {$/;"	f
+yaf_controller_methods	yaf_controller.c	/^zend_function_entry yaf_controller_methods[] = {$/;"	v
+yaf_controller_render	yaf_controller.c	/^zval * yaf_controller_render(yaf_controller_t *instance, char *action_name, int len, zval *var_array TSRMLS_DC) {$/;"	f
+yaf_controller_t	php_yaf.h	64;"	d
+yaf_deep_copy_section	configs/yaf_config_ini.c	/^static inline void yaf_deep_copy_section(zval *dst, zval *src TSRMLS_DC) {$/;"	f	file:
+yaf_dispatcher_ce	yaf_dispatcher.c	/^zend_class_entry * yaf_dispatcher_ce;$/;"	v
+yaf_dispatcher_dispatch	yaf_dispatcher.c	/^yaf_response_t * yaf_dispatcher_dispatch(yaf_dispatcher_t *dispatcher TSRMLS_DC) {$/;"	f
+yaf_dispatcher_exception_handler	yaf_dispatcher.c	/^void yaf_dispatcher_exception_handler(yaf_dispatcher_t *dispatcher, yaf_request_t *request, yaf_response_t *response TSRMLS_DC) {$/;"	f
+yaf_dispatcher_fix_default	yaf_dispatcher.c	/^static inline void yaf_dispatcher_fix_default(yaf_dispatcher_t *dispatcher, yaf_request_t *request TSRMLS_DC) {$/;"	f	file:
+yaf_dispatcher_get_action	yaf_dispatcher.c	/^zend_class_entry * yaf_dispatcher_get_action(char *app_dir, yaf_controller_t *controller, char *module, int def_module, char *action, int len TSRMLS_DC) {$/;"	f
+yaf_dispatcher_get_call_parameters	yaf_dispatcher.c	/^static void yaf_dispatcher_get_call_parameters(zend_class_entry *request_ce, yaf_request_t *request, zend_function *fptr, zval ****params, uint *count TSRMLS_DC) {$/;"	f	file:
+yaf_dispatcher_get_controller	yaf_dispatcher.c	/^zend_class_entry * yaf_dispatcher_get_controller(char *app_dir, char *module, char *controller, int len, int def_module TSRMLS_DC) {$/;"	f
+yaf_dispatcher_handle	yaf_dispatcher.c	/^int yaf_dispatcher_handle(yaf_dispatcher_t *dispatcher, yaf_request_t *request,  yaf_response_t *response, yaf_view_t *view TSRMLS_DC) {$/;"	f
+yaf_dispatcher_init_view	yaf_dispatcher.c	/^static yaf_view_t * yaf_dispatcher_init_view(yaf_dispatcher_t *dispatcher, zval *tpl_dir, zval *options TSRMLS_DC) {$/;"	f	file:
+yaf_dispatcher_instance	yaf_dispatcher.c	/^yaf_dispatcher_t * yaf_dispatcher_instance(yaf_dispatcher_t *this_ptr TSRMLS_DC) {$/;"	f
+yaf_dispatcher_methods	yaf_dispatcher.c	/^zend_function_entry yaf_dispatcher_methods[] = {$/;"	v
+yaf_dispatcher_route	yaf_dispatcher.c	/^int yaf_dispatcher_route(yaf_dispatcher_t *dispatcher, yaf_request_t *request TSRMLS_DC) {$/;"	f
+yaf_dispatcher_set_request	yaf_dispatcher.c	/^int yaf_dispatcher_set_request(yaf_dispatcher_t *dispatcher, yaf_request_t *request TSRMLS_DC) {$/;"	f
+yaf_dispatcher_t	php_yaf.h	68;"	d
+yaf_exception_ce	yaf_exception.c	/^zend_class_entry *yaf_exception_ce;$/;"	v
+yaf_exception_methods	yaf_exception.c	/^zend_function_entry yaf_exception_methods[] = {$/;"	v
+yaf_exception_t	php_yaf.h	76;"	d
+yaf_functions	yaf.c	/^zend_function_entry yaf_functions[] = {$/;"	v
+yaf_get_exception_base	yaf_exception.c	/^zend_class_entry * yaf_get_exception_base(int root TSRMLS_DC) {$/;"	f
+yaf_internal_autoload	yaf_loader.c	/^int yaf_internal_autoload(char *file_name, uint name_len, char **directory TSRMLS_DC) {$/;"	f
+yaf_loader_ce	yaf_loader.c	/^zend_class_entry *yaf_loader_ce;$/;"	v
+yaf_loader_import	yaf_loader.c	/^int yaf_loader_import(char *path, int len, int use_path TSRMLS_DC) {$/;"	f
+yaf_loader_instance	yaf_loader.c	/^yaf_loader_t * yaf_loader_instance(yaf_loader_t *this_ptr, char *library_path, char *global_path TSRMLS_DC) {$/;"	f
+yaf_loader_is_category	yaf_loader.c	/^static int yaf_loader_is_category(char *class, uint class_len, char *category, uint category_len TSRMLS_DC) {$/;"	f	file:
+yaf_loader_is_local_namespace	yaf_loader.c	/^int yaf_loader_is_local_namespace(yaf_loader_t *loader, char *class_name, int len TSRMLS_DC) {$/;"	f
+yaf_loader_methods	yaf_loader.c	/^zend_function_entry yaf_loader_methods[] = {$/;"	v
+yaf_loader_register	yaf_loader.c	/^int yaf_loader_register(yaf_loader_t *loader TSRMLS_DC) {$/;"	f
+yaf_loader_register_namespace_multi	yaf_loader.c	/^int yaf_loader_register_namespace_multi(zval *prefixes TSRMLS_DC) {$/;"	f
+yaf_loader_register_namespace_single	yaf_loader.c	/^int yaf_loader_register_namespace_single(char *prefix, uint len TSRMLS_DC) {$/;"	f
+yaf_loader_t	php_yaf.h	70;"	d
+yaf_logo	yaf_logo.h	/^static const unsigned char yaf_logo[] = {$/;"	v
+yaf_module_entry	yaf.c	/^zend_module_entry yaf_module_entry = {$/;"	v
+yaf_plugin_ce	yaf_plugin.c	/^zend_class_entry * yaf_plugin_ce;$/;"	v
+yaf_plugin_methods	yaf_plugin.c	/^zend_function_entry yaf_plugin_methods[] = {$/;"	v
+yaf_plugin_methods_ns	yaf_plugin.c	/^zend_function_entry yaf_plugin_methods_ns[] = {$/;"	v
+yaf_plugin_t	php_yaf.h	74;"	d
+yaf_registry_ce	yaf_registry.c	/^zend_class_entry *yaf_registry_ce;$/;"	v
+yaf_registry_instance	yaf_registry.c	/^yaf_registry_t *yaf_registry_instance(yaf_registry_t *this_ptr TSRMLS_DC) {$/;"	f
+yaf_registry_is_set	yaf_registry.c	/^int yaf_registry_is_set(char *name, int len TSRMLS_DC) {$/;"	f
+yaf_registry_methods	yaf_registry.c	/^zend_function_entry yaf_registry_methods[] = {$/;"	v
+yaf_registry_t	php_yaf.h	73;"	d
+yaf_request_ce	yaf_request.c	/^zend_class_entry *yaf_request_ce;$/;"	v
+yaf_request_get_language	yaf_request.c	/^zval * yaf_request_get_language(yaf_request_t *instance TSRMLS_DC) {$/;"	f
+yaf_request_get_method	yaf_request.c	/^yaf_request_t * yaf_request_get_method(yaf_request_t *request TSRMLS_DC) {$/;"	f
+yaf_request_get_param	yaf_request.c	/^ zval * yaf_request_get_param(yaf_request_t *request, char *key, int len TSRMLS_DC) {$/;"	f
+yaf_request_http_ce	requests/yaf_request_http.c	/^static zend_class_entry * yaf_request_http_ce;$/;"	v	file:
+yaf_request_http_instance	requests/yaf_request_http.c	/^yaf_request_t * yaf_request_http_instance(yaf_request_t *this_ptr, char *request_uri, char *base_uri TSRMLS_DC) {$/;"	f
+yaf_request_http_methods	requests/yaf_request_http.c	/^zend_function_entry yaf_request_http_methods[] = {$/;"	v
+yaf_request_instance	yaf_request.c	/^yaf_request_t * yaf_request_instance(yaf_request_t *this_ptr, char *other TSRMLS_DC) {$/;"	f
+yaf_request_is_dispatched	yaf_request.c	/^ int yaf_request_is_dispatched(yaf_request_t *request TSRMLS_DC) {$/;"	f
+yaf_request_is_routed	yaf_request.c	/^ int yaf_request_is_routed(yaf_request_t *request TSRMLS_DC) {$/;"	f
+yaf_request_methods	yaf_request.c	/^zend_function_entry yaf_request_methods[] = {$/;"	v
+yaf_request_query	yaf_request.c	/^zval * yaf_request_query(uint type, char * name, uint len TSRMLS_DC) {$/;"	f
+yaf_request_set_base_uri	yaf_request.c	/^int yaf_request_set_base_uri(yaf_request_t *request, char *base_uri, char *request_uri TSRMLS_DC) {$/;"	f
+yaf_request_set_dispatched	yaf_request.c	/^ int yaf_request_set_dispatched(yaf_request_t *instance, int flag TSRMLS_DC) {$/;"	f
+yaf_request_set_params_multi	yaf_request.c	/^ int yaf_request_set_params_multi(yaf_request_t *request, zval *values TSRMLS_DC) {$/;"	f
+yaf_request_set_params_single	yaf_request.c	/^ int yaf_request_set_params_single(yaf_request_t *request, char *key, int len, zval *value TSRMLS_DC) {$/;"	f
+yaf_request_set_routed	yaf_request.c	/^ int yaf_request_set_routed(yaf_request_t *request, int flag TSRMLS_DC) {$/;"	f
+yaf_request_simple_ce	requests/yaf_request_simple.c	/^static zend_class_entry *yaf_request_simple_ce;$/;"	v	file:
+yaf_request_simple_instance	requests/yaf_request_simple.c	/^yaf_request_t * yaf_request_simple_instance(yaf_request_t *this_ptr, zval *module, zval *controller, zval *action, zval *method, zval *params TSRMLS_DC) {$/;"	f
+yaf_request_simple_methods	requests/yaf_request_simple.c	/^zend_function_entry yaf_request_simple_methods[] = {$/;"	v
+yaf_request_t	php_yaf.h	65;"	d
+yaf_response_alter_body	yaf_response.c	/^int yaf_response_alter_body(yaf_response_t *response, char *name, int name_len, char *body, long body_len, int flag TSRMLS_DC) {$/;"	f
+yaf_response_alter_header	responses/yaf_response_http.c	/^int yaf_response_alter_header(yaf_response_t *response, char *name, uint name_len, char *value, long value_len, uint rep TSRMLS_DC) {$/;"	f
+yaf_response_ce	yaf_response.c	/^zend_class_entry *yaf_response_ce;$/;"	v
+yaf_response_clear_body	yaf_response.c	/^int yaf_response_clear_body(yaf_response_t *response, char *name, uint name_len TSRMLS_DC) {$/;"	f
+yaf_response_clear_header	responses/yaf_response_http.c	/^int yaf_response_clear_header(yaf_response_t *response, char *name, uint name_len TSRMLS_DC) {$/;"	f
+yaf_response_cli_ce	responses/yaf_response_cli.c	/^zend_class_entry * yaf_response_cli_ce;$/;"	v
+yaf_response_cli_methods	responses/yaf_response_cli.c	/^zend_function_entry yaf_response_cli_methods[] = {$/;"	v
+yaf_response_get_body	yaf_response.c	/^zval * yaf_response_get_body(yaf_response_t *response, char *name, uint name_len TSRMLS_DC) {$/;"	f
+yaf_response_get_header	responses/yaf_response_http.c	/^zval * yaf_response_get_header(yaf_response_t *response, char *name, uint name_len TSRMLS_DC) {$/;"	f
+yaf_response_http_ce	responses/yaf_response_http.c	/^zend_class_entry *yaf_response_http_ce;$/;"	v
+yaf_response_http_methods	responses/yaf_response_http.c	/^zend_function_entry yaf_response_http_methods[] = {$/;"	v
+yaf_response_http_send	responses/yaf_response_http.c	/^int yaf_response_http_send(yaf_response_t *response TSRMLS_DC) {$/;"	f
+yaf_response_instance	yaf_response.c	/^yaf_response_t * yaf_response_instance(yaf_response_t *this_ptr, char *sapi_name TSRMLS_DC) {$/;"	f
+yaf_response_methods	yaf_response.c	/^zend_function_entry yaf_response_methods[] = {$/;"	v
+yaf_response_send	yaf_response.c	/^int yaf_response_send(yaf_response_t *response TSRMLS_DC) {$/;"	f
+yaf_response_set_redirect	responses/yaf_response_http.c	/^int yaf_response_set_redirect(yaf_response_t *response, char *url, int len TSRMLS_DC) {$/;"	f
+yaf_response_t	php_yaf.h	71;"	d
+yaf_route_ce	routes/yaf_route_interface.c	/^zend_class_entry *yaf_route_ce;$/;"	v
+yaf_route_instance	routes/yaf_route_interface.c	/^yaf_route_t * yaf_route_instance(yaf_route_t *this_ptr, zval *config TSRMLS_DC) {$/;"	f
+yaf_route_map_assemble	routes/yaf_route_map.c	/^zval * yaf_route_map_assemble(yaf_route_t *this_ptr, zval *mvc, zval *query TSRMLS_DC) {$/;"	f
+yaf_route_map_ce	routes/yaf_route_map.c	/^zend_class_entry *yaf_route_map_ce;$/;"	v
+yaf_route_map_instance	routes/yaf_route_map.c	/^yaf_route_t * yaf_route_map_instance(yaf_route_t *this_ptr, zend_bool controller_prefer, char *delim, uint len TSRMLS_DC) {$/;"	f
+yaf_route_map_methods	routes/yaf_route_map.c	/^zend_function_entry yaf_route_map_methods[] = {$/;"	v
+yaf_route_map_route	routes/yaf_route_map.c	/^int yaf_route_map_route(yaf_route_t *route, yaf_request_t *request TSRMLS_DC) {$/;"	f
+yaf_route_methods	routes/yaf_route_interface.c	/^zend_function_entry yaf_route_methods[] = {$/;"	v
+yaf_route_pathinfo_route	routes/yaf_route_static.c	/^int yaf_route_pathinfo_route(yaf_request_t *request, char *req_uri, int req_uri_len TSRMLS_DC) \/* {{{ *\/ {$/;"	f
+yaf_route_regex_assemble	routes/yaf_route_regex.c	/^zval * yaf_route_regex_assemble(yaf_route_t *this_ptr, zval *mvc, zval *query TSRMLS_DC) {$/;"	f
+yaf_route_regex_ce	routes/yaf_route_regex.c	/^zend_class_entry *yaf_route_regex_ce;$/;"	v
+yaf_route_regex_instance	routes/yaf_route_regex.c	/^yaf_route_t * yaf_route_regex_instance(yaf_route_t *this_ptr, zval *route, zval *def, zval *map, zval *verify, zval *reverse TSRMLS_DC) {$/;"	f
+yaf_route_regex_match	routes/yaf_route_regex.c	/^static zval * yaf_route_regex_match(yaf_route_t *route, char *uri, int len TSRMLS_DC) {$/;"	f	file:
+yaf_route_regex_methods	routes/yaf_route_regex.c	/^zend_function_entry yaf_route_regex_methods[] = {$/;"	v
+yaf_route_regex_route	routes/yaf_route_regex.c	/^int yaf_route_regex_route(yaf_route_t *router, yaf_request_t *request TSRMLS_DC) {$/;"	f
+yaf_route_rewrite_assemble	routes/yaf_route_rewrite.c	/^zval * yaf_route_rewrite_assemble(yaf_route_t *this_ptr, zval *idents, zval *query TSRMLS_DC) {$/;"	f
+yaf_route_rewrite_ce	routes/yaf_route_rewrite.c	/^zend_class_entry *yaf_route_rewrite_ce;$/;"	v
+yaf_route_rewrite_instance	routes/yaf_route_rewrite.c	/^yaf_route_t * yaf_route_rewrite_instance(yaf_route_t *this_ptr, zval *match, zval *route, zval *verify TSRMLS_DC) {$/;"	f
+yaf_route_rewrite_match	routes/yaf_route_rewrite.c	/^static zval * yaf_route_rewrite_match(yaf_route_t *router, char *uri, int len TSRMLS_DC) {$/;"	f	file:
+yaf_route_rewrite_methods	routes/yaf_route_rewrite.c	/^zend_function_entry yaf_route_rewrite_methods[] = {$/;"	v
+yaf_route_rewrite_route	routes/yaf_route_rewrite.c	/^int yaf_route_rewrite_route(yaf_route_t *router, yaf_request_t *request TSRMLS_DC) {$/;"	f
+yaf_route_simple_assemble	routes/yaf_route_simple.c	/^zval * yaf_route_simple_assemble(yaf_route_t *this_ptr, zval *mvc, zval *query TSRMLS_DC) {$/;"	f
+yaf_route_simple_ce	routes/yaf_route_simple.c	/^zend_class_entry *yaf_route_simple_ce;$/;"	v
+yaf_route_simple_instance	routes/yaf_route_simple.c	/^yaf_route_t * yaf_route_simple_instance(yaf_route_t *this_ptr, zval *module, zval *controller, zval *action TSRMLS_DC) {$/;"	f
+yaf_route_simple_methods	routes/yaf_route_simple.c	/^zend_function_entry yaf_route_simple_methods[] = {$/;"	v
+yaf_route_simple_route	routes/yaf_route_simple.c	/^int yaf_route_simple_route(yaf_route_t *route, yaf_request_t *request TSRMLS_DC) {$/;"	f
+yaf_route_static_assemble	routes/yaf_route_static.c	/^zval * yaf_route_static_assemble(yaf_route_t *this_ptr, zval *mvc, zval *query TSRMLS_DC) {$/;"	f
+yaf_route_static_ce	routes/yaf_route_static.c	/^zend_class_entry * yaf_route_static_ce;$/;"	v
+yaf_route_static_methods	routes/yaf_route_static.c	/^zend_function_entry yaf_route_static_methods[] = {$/;"	v
+yaf_route_static_route	routes/yaf_route_static.c	/^int yaf_route_static_route(yaf_route_t *route, yaf_request_t *request TSRMLS_DC) {$/;"	f
+yaf_route_supervar_assemble	routes/yaf_route_supervar.c	/^zval * yaf_route_supervar_assemble(yaf_route_t *this_ptr, zval *mvc, zval *query TSRMLS_DC) {$/;"	f
+yaf_route_supervar_ce	routes/yaf_route_supervar.c	/^zend_class_entry *yaf_route_supervar_ce;$/;"	v
+yaf_route_supervar_instance	routes/yaf_route_supervar.c	/^yaf_route_t * yaf_route_supervar_instance(yaf_route_t *this_ptr, zval *name TSRMLS_DC) {$/;"	f
+yaf_route_supervar_methods	routes/yaf_route_supervar.c	/^zend_function_entry yaf_route_supervar_methods[] = {$/;"	v
+yaf_route_supervar_route	routes/yaf_route_supervar.c	/^int yaf_route_supervar_route(yaf_route_t *route, yaf_request_t *request TSRMLS_DC) {$/;"	f
+yaf_route_t	php_yaf.h	67;"	d
+yaf_router_add_config	yaf_router.c	/^int yaf_router_add_config(yaf_router_t *router, zval *configs TSRMLS_DC) {$/;"	f
+yaf_router_ce	yaf_router.c	/^zend_class_entry *yaf_router_ce;$/;"	v
+yaf_router_instance	yaf_router.c	/^yaf_router_t * yaf_router_instance(yaf_router_t *this_ptr TSRMLS_DC) {$/;"	f
+yaf_router_methods	yaf_router.c	/^zend_function_entry yaf_router_methods[] = {$/;"	v
+yaf_router_parse_parameters	yaf_router.c	/^zval * yaf_router_parse_parameters(char *uri TSRMLS_DC) {$/;"	f
+yaf_router_route	yaf_router.c	/^int yaf_router_route(yaf_router_t *router, yaf_request_t *request TSRMLS_DC) {$/;"	f
+yaf_router_t	php_yaf.h	66;"	d
+yaf_session_ce	yaf_session.c	/^zend_class_entry * yaf_session_ce;$/;"	v
+yaf_session_instance	yaf_session.c	/^static yaf_session_t * yaf_session_instance(TSRMLS_D) {$/;"	f	file:
+yaf_session_methods	yaf_session.c	/^zend_function_entry yaf_session_methods[] = {$/;"	v
+yaf_session_start	yaf_session.c	/^inline int yaf_session_start(yaf_session_t *session TSRMLS_DC) {$/;"	f
+yaf_session_t	php_yaf.h	75;"	d
+yaf_throw_exception	yaf_exception.c	/^void yaf_throw_exception(long code, char *message TSRMLS_DC) {$/;"	f
+yaf_trigger_error	yaf_exception.c	/^void yaf_trigger_error(int type TSRMLS_DC, char *format, ...) {$/;"	f
+yaf_view_ce	yaf_view.h	23;"	d
+yaf_view_instance	yaf_view.h	22;"	d
+yaf_view_interface_ce	views/yaf_view_interface.c	/^zend_class_entry *yaf_view_interface_ce;$/;"	v
+yaf_view_interface_methods	views/yaf_view_interface.c	/^zend_function_entry yaf_view_interface_methods[] = {$/;"	v
+yaf_view_simple_assign_multi	views/yaf_view_simple.c	/^int yaf_view_simple_assign_multi(yaf_view_t *view, zval *value TSRMLS_DC) {$/;"	f
+yaf_view_simple_assign_single	views/yaf_view_simple.c	/^int yaf_view_simple_assign_single(yaf_view_t *view, char *name, uint len, zval *value TSRMLS_DC) {$/;"	f
+yaf_view_simple_buffer	yaf_view.h	/^typedef struct _yaf_view_simple_buffer yaf_view_simple_buffer;$/;"	t	typeref:struct:_yaf_view_simple_buffer
+yaf_view_simple_ce	views/yaf_view_simple.c	/^zend_class_entry *yaf_view_simple_ce;$/;"	v
+yaf_view_simple_clear_assign	views/yaf_view_simple.c	/^void yaf_view_simple_clear_assign(yaf_view_t *view, char *name, uint len TSRMLS_DC) {$/;"	f
+yaf_view_simple_display	views/yaf_view_simple.c	/^int yaf_view_simple_display(yaf_view_t *view, zval *tpl, zval *vars, zval *ret TSRMLS_DC) {$/;"	f
+yaf_view_simple_eval	views/yaf_view_simple.c	/^int yaf_view_simple_eval(yaf_view_t *view, zval *tpl, zval * vars, zval *ret TSRMLS_DC) {$/;"	f
+yaf_view_simple_extract	views/yaf_view_simple.c	/^static int yaf_view_simple_extract(zval *tpl_vars, zval *vars TSRMLS_DC) {$/;"	f	file:
+yaf_view_simple_instance	views/yaf_view_simple.c	/^yaf_view_t * yaf_view_simple_instance(yaf_view_t *view, zval *tpl_dir, zval *options TSRMLS_DC) {$/;"	f
+yaf_view_simple_methods	views/yaf_view_simple.c	/^zend_function_entry yaf_view_simple_methods[] = {$/;"	v
+yaf_view_simple_render	views/yaf_view_simple.c	/^int yaf_view_simple_render(yaf_view_t *view, zval *tpl, zval * vars, zval *ret TSRMLS_DC) {$/;"	f
+yaf_view_simple_render_write	views/yaf_view_simple.c	/^static int yaf_view_simple_render_write(const char *str, uint str_length TSRMLS_DC) {$/;"	f	file:
+yaf_view_simple_valid_var_name	views/yaf_view_simple.c	/^static int yaf_view_simple_valid_var_name(char *var_name, int len) \/* {{{ *\/$/;"	f	file:
+yaf_view_t	php_yaf.h	63;"	d
